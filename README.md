@@ -47,10 +47,6 @@ A MATLAB project analyzing historical global mean sea level (GMSL) data and fore
 - Original sea level data with uncertainty shading
 - Model predictions on test data
 - Future forecasts (2014–2100)
-
-👩‍💻 Author
-- Developed by Varshini15-official
-
 Comparative forecast of all three models
 
 👩‍💻 Author

@@ -1,1 +1,5 @@
-Contributed by Varshini15-official and sahana634official
+## 🙌 Contributors
+
+- [@Varshini15-official](https://github.com/Varshini15-official) – Contributor 1
+- [@sahana634official](https://github.com/sahana634official) – Contributor 2
+

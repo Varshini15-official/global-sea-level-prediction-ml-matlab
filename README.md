@@ -66,4 +66,4 @@ When prompted, enter a year between 2014 and 2100 to view predictions
 
 ## 👩‍💻 Author
 
-Developed by Varshini15-official
+Developed by Varshini15-official and sahana634official 
